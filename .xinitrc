@@ -1,3 +1,5 @@
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --auto
 #set keyboard layout
 setxkbmap pt &
 #StatusBar
